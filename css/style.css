@@ -13,7 +13,7 @@ body {
 /*===header-style-area-start===*/
 
 header {
-    background-image: url(Img/apartment-apple-building-business-265125.jpg);
+    background-image: url(../Img/apartment-apple-building-business-265125.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(112vh - 80px);
@@ -398,7 +398,7 @@ label.logo {
     text-align: center;
     float: left;
     margin-left: 15%;
-    background-image: url(Img/img-team/a3zam.jpg);
+    background-image: url(../Img/img-team/a3zam.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -411,7 +411,7 @@ label.logo {
     text-align: center;
     float: left;
     margin-left: 15%;
-    background-image: url(Img/img-team/kola.jpg);
+    background-image: url(../Img/img-team/kola.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -424,7 +424,7 @@ label.logo {
     text-align: center;
     float: right;
     margin-left: 15%;
-    background-image: url(Img/img-team/jaf.jpg);
+    background-image: url(../Img/img-team/jaf.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -437,7 +437,7 @@ label.logo {
     text-align: center;
     float: right;
     margin-left: 5%;
-    background-image: url(Img/img-team/wd.jpg);
+    background-image: url(../Img/img-team/wd.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 50%;
@@ -479,21 +479,21 @@ label.logo {
 }
 
 .main-banner #imgban3 {
-    background-image: url(img/1.jpg);
+    background-image: url(../img/1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main-banner #imgban2 {
-    background-image: url(img/4.jpg);
+    background-image: url(../img/4.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main-banner #imgban1 {
-    background-image: url(img/5.jpg);
+    background-image: url(../img/5.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
